@@ -1,0 +1,66 @@
+Logfile initialized
+[INFO] logfile = C:\Users\y_nakanishi\My Documents\titaniumLearning\sample_twitter\build.log
+[DEBUG] C:\ProgramData\Titanium\mobilesdk\win32\1.7.2\android\builder.py install sample_twitter C:\Progra~1\Android\android-sdk C:\Users\y_nakanishi\My Documents\titaniumLearning\sample_twitter com.sample.twiter 3
+[INFO] Titanium SDK version: 1.7.2 (07/21/11 09:36 97c3689)
+[DEBUG] Waiting for device to be ready ...
+[TRACE] adb devices returned 1 devices/emulators
+[DEBUG] Device connected... (waited 0 seconds)
+[DEBUG] waited 0.278000 seconds on emulator to get ready
+[DEBUG] com.sample.twiter installed? False
+[INFO] Copying project resources..
+[TRACE] COPYING CREATED FILE: C:\Users\y_nakanishi\My Documents\titaniumLearning\sample_twitter\Resources\message_window.js => C:\Users\y_nakanishi\My Documents\titaniumLearning\sample_twitter\build\android\bin\assets\Resources\message_window.js
+[TRACE] COPYING MODIFIED FILE: C:\Users\y_nakanishi\My Documents\titaniumLearning\sample_twitter\Resources\table_view.js => C:\Users\y_nakanishi\My Documents\titaniumLearning\sample_twitter\build\android\bin\assets\Resources\table_view.js
+[TRACE] Generating Java Classes
+[DEBUG] Processing Android resource drawables
+[DEBUG] copying app icon: C:\Users\y_nakanishi\My Documents\titaniumLearning\sample_twitter\build\android\bin\assets\Resources\appicon.png
+[DEBUG] generating theme.xml
+[DEBUG] found splash screen at C:\Users\y_nakanishi\My Documents\titaniumLearning\sample_twitter\build\android\bin\assets\Resources\default.png
+[TRACE] Writing out AndroidManifest.xml
+[DEBUG] adding C:\Users\y_nakanishi\My Documents\titaniumLearning\sample_twitter\build\android\gen\com\sample\twiter\R.java to javac build list
+[DEBUG] adding C:\Users\y_nakanishi\My Documents\titaniumLearning\sample_twitter\build\android\gen\com\sample\twiter\Sample_twitterActivity.java to javac build list
+[DEBUG] adding C:\Users\y_nakanishi\My Documents\titaniumLearning\sample_twitter\build\android\gen\com\sample\twiter\Sample_twitterAppInfo.java to javac build list
+[DEBUG] adding C:\Users\y_nakanishi\My Documents\titaniumLearning\sample_twitter\build\android\gen\com\sample\twiter\Sample_twitterApplication.java to javac build list
+[DEBUG] Building Java Sources: "C:\\Users\\y_nakanishi\\My Documents\\titaniumLearning\\sample_twitter\\build\\android\\gen\\com\\sample\\twiter\\R.java" "C:\\Users\\y_nakanishi\\My Documents\\titaniumLearning\\sample_twitter\\build\\android\\gen\\com\\sample\\twiter\\Sample_twitterActivity.java" "C:\\Users\\y_nakanishi\\My Documents\\titaniumLearning\\sample_twitter\\build\\android\\gen\\com\\sample\\twiter\\Sample_twitterAppInfo.java" "C:\\Users\\y_nakanishi\\My Documents\\titaniumLearning\\sample_twitter\\build\\android\\gen\\com\\sample\\twiter\\Sample_twitterApplication.java"
+[INFO] Compiling Android Resources... This could take some time
+[DEBUG] Android classes.dex built
+[DEBUG] creating unsigned apk: C:\Users\y_nakanishi\My Documents\titaniumLearning\sample_twitter\build\android\bin\app-unsigned.apk
+[DEBUG] from resource zip => assets/Resources/KS_nav_ui.png
+[DEBUG] from resource zip => assets/Resources/KS_nav_views.png
+[DEBUG] from resource zip => assets/Resources/app.js
+[DEBUG] from resource zip => assets/Resources/appicon.png
+[DEBUG] from resource zip => assets/Resources/default.png
+[DEBUG] from resource zip => assets/Resources/message_window.js
+[DEBUG] from resource zip => assets/Resources/table_view.js
+[DEBUG] from resource zip => assets/tiapp.xml
+[DEBUG] from resource zip => res/drawable/appicon.png
+[DEBUG] from resource zip => res/drawable/background.png
+[DEBUG] from resource zip => res/layout/titanium_tabgroup.xml
+[DEBUG] from resource zip => AndroidManifest.xml
+[DEBUG] from resource zip => resources.arsc
+[DEBUG] from JAR C:\ProgramData\Titanium\mobilesdk\win32\1.7.2\android\modules\titanium-ui.jar => ti/modules/titanium/ui/widget/webview/binding.js
+[DEBUG] from JAR C:\ProgramData\Titanium\mobilesdk\win32\1.7.2\android\modules\titanium-ui.jar => ti/modules/titanium/ui/widget/webview/binding.min.js
+[DEBUG] from JAR C:\ProgramData\Titanium\mobilesdk\win32\1.7.2\android\modules\titanium-ui.jar => ti/modules/titanium/ui/widget/webview/json2.js
+[DEBUG] from JAR C:\ProgramData\Titanium\mobilesdk\win32\1.7.2\android\smalljs.jar => org/mozilla/javascript/resources/Messages.properties
+[DEBUG] from JAR C:\ProgramData\Titanium\mobilesdk\win32\1.7.2\android\smalljs.jar => org/mozilla/javascript/resources/Messages_fr.properties
+[DEBUG] from JAR C:\ProgramData\Titanium\mobilesdk\win32\1.7.2\android\titanium.jar => org/apache/Commons-NOTICE.txt
+[DEBUG] from JAR C:\ProgramData\Titanium\mobilesdk\win32\1.7.2\android\titanium.jar => org/apache/HttpComponents-NOTICE.txt
+[DEBUG] from JAR C:\ProgramData\Titanium\mobilesdk\win32\1.7.2\android\titanium.jar => org/apache/mime4j-NOTICE.txt
+[DEBUG] from JAR C:\ProgramData\Titanium\mobilesdk\win32\1.7.2\android\titanium.jar => org/appcelerator/titanium/build.properties
+[DEBUG] from JAR C:\ProgramData\Titanium\mobilesdk\win32\1.7.2\android\titanium.jar => org/appcelerator/titanium/res/drawable/background.png
+[DEBUG] from JAR C:\ProgramData\Titanium\mobilesdk\win32\1.7.2\android\titanium.jar => org/appcelerator/titanium/res/drawable/btn_check_buttonless_on.png
+[DEBUG] from JAR C:\ProgramData\Titanium\mobilesdk\win32\1.7.2\android\titanium.jar => org/appcelerator/titanium/res/drawable/btn_check_buttonless_on_18.png
+[DEBUG] from JAR C:\ProgramData\Titanium\mobilesdk\win32\1.7.2\android\titanium.jar => org/appcelerator/titanium/res/drawable/btn_check_buttonless_on_48.png
+[DEBUG] from JAR C:\ProgramData\Titanium\mobilesdk\win32\1.7.2\android\titanium.jar => org/appcelerator/titanium/res/drawable/btn_more.png
+[DEBUG] from JAR C:\ProgramData\Titanium\mobilesdk\win32\1.7.2\android\titanium.jar => org/appcelerator/titanium/res/drawable/btn_more_18.png
+[DEBUG] from JAR C:\ProgramData\Titanium\mobilesdk\win32\1.7.2\android\titanium.jar => org/appcelerator/titanium/res/drawable/btn_more_48.png
+[DEBUG] from JAR C:\ProgramData\Titanium\mobilesdk\win32\1.7.2\android\titanium.jar => org/appcelerator/titanium/res/drawable/btn_picker_normal.9.png
+[DEBUG] from JAR C:\ProgramData\Titanium\mobilesdk\win32\1.7.2\android\titanium.jar => org/appcelerator/titanium/res/drawable/btn_picker_pressed.9.png
+[DEBUG] from JAR C:\ProgramData\Titanium\mobilesdk\win32\1.7.2\android\titanium.jar => org/appcelerator/titanium/res/drawable/btn_picker_selected.9.png
+[DEBUG] from JAR C:\ProgramData\Titanium\mobilesdk\win32\1.7.2\android\titanium.jar => org/appcelerator/titanium/res/drawable/default_icon.png
+[DEBUG] from JAR C:\ProgramData\Titanium\mobilesdk\win32\1.7.2\android\titanium.jar => org/appcelerator/titanium/res/drawable/photoDefault.png
+[DEBUG] Waiting for device to be ready ...
+[TRACE] adb devices returned 1 devices/emulators
+[DEBUG] Device connected... (waited 0 seconds)
+[DEBUG] waited 0.464000 seconds on emulator to get ready
+[INFO] Installing application on emulator
+[INFO] Application installed. Launch from drawer on Home Screen
