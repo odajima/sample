@@ -11,6 +11,7 @@ var tab1 = Titanium.UI.createTab({
     window:win1
 }); 
 
+
 win1.hideTabBar();
  
 tabGroup.addTab(tab1);  
